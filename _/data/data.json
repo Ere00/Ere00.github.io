@@ -1,0 +1,5 @@
+var me =
+{
+    name: "Erno Tuovinen",
+    occupation: "Front-End Web Developer"
+}
